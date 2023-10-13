@@ -1,3 +1,3 @@
-# daq-firmware-base-24
+# daq-location-24
 
 **Checkout some learning resources [here!](./RESOURCES.md)**
